@@ -17,10 +17,10 @@ const Services = () => {
             <Col xl="6" lg="8" md="10">
               <div className="section-title text-center mb-11 mb-lg-15">
                 <h2 className="title gr-text-4 mb-6 heading-color">
-                  Conheça Nosso Serviços
+                  Conheça Nossos Serviços
                 </h2>
                 <p className="gr-text-8 mb-0 px-lg-7 px-xl-0 text-color-opacity">
-                  Entenda que tipo de serviços que oferecemos ao paciente
+                  Entenda que tipo de serviços nós oferecemos
                 </p>
               </div>
             </Col>
