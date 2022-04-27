@@ -1,6 +1,6 @@
 export const menuItems = [
   {
-    name: "",
+    name: "sobre",
     label: "Sobre Nós",
   },
   {

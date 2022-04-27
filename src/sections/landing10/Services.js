@@ -20,8 +20,7 @@ const Services = () => {
                   Conheça Nosso Serviços
                 </h2>
                 <p className="gr-text-8 mb-0 px-lg-7 px-xl-0 text-color-opacity">
-                  Nos esforçamos para mudar a forma como os serviços de saúde são oferecidos,
-                  a fim de melhor atender nossos pacientes.
+                  Entenda que tipo de serviços que oferecemos ao paciente
                 </p>
               </div>
             </Col>
@@ -29,7 +28,7 @@ const Services = () => {
           <Row className="align-items-center justify-content-center">
             <Col lg="4" md="6" sm="10" className="mb-13 mb-lg-0">
               <div className="service-card">
-                <h3 className="card-title gr-text-7 heading-color mb-7">Cuidados Domésticos Diários</h3>
+                <h3 className="card-title gr-text-7 heading-color mb-7">Cuidados com Idosos</h3>
                 <div className="img-thumb mb-8">
                   <img className="rounded-10 w-100" src={imgS1} alt="" />
                 </div>
@@ -47,7 +46,7 @@ const Services = () => {
             </Col>
             <Col lg="4" md="6" sm="10" className="mb-13 mb-lg-0">
               <div className="service-card">
-                <h3 className="card-title gr-text-7 heading-color mb-7">Cuidados Domiciliares por Hora</h3>
+                <h3 className="card-title gr-text-7 heading-color mb-7">Cuidado Domiciliar por Hora</h3>
                 <div className="img-thumb mb-8">
                   <img className="rounded-10 w-100" src={imgS2} alt="" />
                 </div>
@@ -65,7 +64,7 @@ const Services = () => {
             </Col>
             <Col lg="4" md="6" sm="10" className="mb-13 mb-lg-0">
               <div className="service-card">
-                <h3 className="card-title gr-text-7 heading-color mb-7">Cuidados Domiciliares de Repouso</h3>
+                <h3 className="card-title gr-text-7 heading-color mb-7">Consulta de Enfermagem</h3>
                 <div className="img-thumb mb-8">
                   <img className="rounded-10 w-100" src={imgS3} alt="" />
                 </div>
