@@ -11,9 +11,6 @@ import imgT1 from "../assets/image/inner/team-image-1.png";
 import imgT2 from "../assets/image/inner/team-image-2.png";
 import imgT3 from "../assets/image/inner/team-image-3.png";
 import imgT4 from "../assets/image/inner/team-image-4.png";
-import imgT5 from "../assets/image/inner/team-image-5.png";
-import imgT6 from "../assets/image/inner/team-image-6.png";
-import imgT7 from "../assets/image/inner/team-image-7.png";
 
 const AboutUsPage = () => {
   return (

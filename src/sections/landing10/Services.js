@@ -36,7 +36,7 @@ const Services = () => {
                   Os pacientes agora podem receber cuidados de enfermagem em casa diariamente com serviços de alta qualidade.
                 </p>
                 <Link
-                  to="/#"
+                  to="/servicos"
                   className="btn-link with-icon gr-text-9 fw-bold"
                 >
                   Saiba mais{" "}
@@ -54,7 +54,7 @@ const Services = () => {
                   Através de consulta com o médico, uma enfermeira irá definir um plano e conduzi-lo de acordo.
                 </p>
                 <Link
-                  to="/#"
+                  to="/servicos"
                   className="btn-link with-icon gr-text-9 fw-bold"
                 >
                   Saiba mais{" "}
@@ -72,7 +72,7 @@ const Services = () => {
                   Uma dona de casa ou pessoa que ajuda nas tarefas domésticas pode manter a casa com tarefas domésticas.
                 </p>
                 <Link
-                  to="/#"
+                  to="/servicos"
                   className="btn-link with-icon gr-text-9 fw-bold"
                 >
                   Saiba mais{" "}
