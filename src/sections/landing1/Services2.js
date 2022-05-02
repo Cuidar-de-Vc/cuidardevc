@@ -84,7 +84,7 @@ const Services = () => (
           <Col lg="7">
             <div className="more-btn case-btn text-center">
               <Link
-                to="/#"
+                to="/servicos"
                 className="btn-link with-icon mb-0 gr-text-7 fw-bold"
               >
                 Veja todos

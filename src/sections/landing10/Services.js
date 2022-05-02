@@ -1,10 +1,6 @@
 import React from "react";
-import { Link } from "gatsby";
 
 import { Container, Row, Col, Button } from "react-bootstrap";
-
-import imgS2 from "../../assets/image/l3/jpg/l3-service-img22.jpg";
-import imgS3 from "../../assets/image/l3/jpg/l3-service-img33.jpg";
 
 const Services = () => {
   return (
@@ -29,10 +25,10 @@ const Services = () => {
           <Row className="align-items-center justify-content-center">
             <Col sm="10" className="mb-13 mb-lg-0">
               <div className="hero-btns d-flex flex-column flex-md-row justify-content-md-center">
-                <Button className="btn btn-primary with-icon gr-hover-y mb-6 mb-md-0 me-md-7">
-                  Conheça a gente
-                  <i className="fas fa-arrow-right gr-text-11"></i>
-                </Button>
+                  <Button className="btn btn-primary with-icon gr-hover-y mb-6 mb-md-0 me-md-7">
+                    Conheça a gente
+                    <i className="fas fa-arrow-right gr-text-11"></i>
+                  </Button>
                 </div>
             </Col>
           </Row>
