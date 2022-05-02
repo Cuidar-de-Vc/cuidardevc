@@ -8,8 +8,7 @@ export const menuItems = [
     label: "Serviços",
   },
   {
-    name: "",
+    name: "contato",
     label: "Contato",
-    isExternal: false,
   },
 ];
