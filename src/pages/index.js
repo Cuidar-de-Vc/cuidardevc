@@ -2,11 +2,11 @@ import React from "react";
 import PageWrapper from "../components/PageWrapper";
 import Hero from "../sections/landing5/Hero2";
 import Services from "../sections/landing10/Services";
+import Services2 from "../sections/landing1/Services2";
 // import Testimonial1 from "../sections/landing1/Testimonial1";
 // import Content1 from "../sections/landing1/Content1";
 // import Fact from "../sections/landing1/Fact";
 // import Feature from "../sections/landing1/Feature";
-// import CaseStudies from "../sections/landing1/CaseStudies";
 // import Testimonial2 from "../sections/landing1/Testimonial2";
 
 const IndexPage = () => {
@@ -24,11 +24,11 @@ const IndexPage = () => {
       >
         <Hero />
         <Services />
+        <Services2 />
         {/* <Testimonial1 /> */}
         {/* <Content1 /> */}
         {/* <Fact /> */}
         {/* <Feature /> */}
-        {/* <CaseStudies /> */}
         {/* <Testimonial2 /> */}
       </PageWrapper>
     </>

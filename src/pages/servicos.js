@@ -40,6 +40,24 @@ const ServicesPage = () => {
             <Row className="align-items-center justify-content-center">
               <Col lg="4" md="6" sm="10" className="mb-13 mb-lg-0">
                 <div className="service-card">
+                  <h3 className="card-title gr-text-7 heading-color mb-7">Cuidados de Enfermagem Domiciliar Intensivo</h3>
+                  <div className="img-thumb mb-8">
+                    <img className="rounded-10 w-100" src={imgS1} alt="" />
+                  </div>
+                  <p className="excerpt gr-text-9 text-color-opacity mb-6">
+                    Os pacientes agora podem receber cuidados de enfermagem em casa diariamente com serviços de alta qualidade.
+                  </p>
+                  <Link
+                    to="/#"
+                    className="btn-link with-icon gr-text-9 fw-bold"
+                  >
+                    Saiba mais{" "}
+                    <i className="icon icon-tail-right fw-bold"></i>
+                  </Link>
+                </div>
+              </Col>
+              <Col lg="4" md="6" sm="10" className="mb-13 mb-lg-0">
+                <div className="service-card">
                   <h3 className="card-title gr-text-7 heading-color mb-7">Cuidados com Idosos</h3>
                   <div className="img-thumb mb-8">
                     <img className="rounded-10 w-100" src={imgS1} alt="" />
