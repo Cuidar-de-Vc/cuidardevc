@@ -1,6 +1,11 @@
 import React from "react";
+import { Link } from "gatsby";
 
-import { Container, Row, Col, Button } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
+
+import imgS1 from "../../assets/image/l3/jpg/l3-service-img1.jpg";
+import imgS2 from "../../assets/image/l3/jpg/l3-service-img2.jpg";
+import imgS3 from "../../assets/image/l3/jpg/l3-service-img3.jpg";
 
 const Services = () => {
   return (
@@ -12,24 +17,72 @@ const Services = () => {
             <Col xl="6" lg="8" md="10">
               <div className="section-title text-center mb-11 mb-lg-15">
                 <h2 className="title gr-text-4 mb-6 heading-color">
-                  Bem vindos à Cuidar de Você
+                  Services we offer for you
                 </h2>
                 <p className="gr-text-8 mb-0 px-lg-7 px-xl-0 text-color-opacity">
-                  A cuidar de vc é uma empresa que foi criada em 2020 após uma
-                  pesquisa inspiradora e encorajadora de consultoria para home
-                  care com a finalidade de impactar a sua vida.
+                  With lots of unique blocks, you can easily build a page
+                  without coding. Build your next landing page.
                 </p>
               </div>
             </Col>
           </Row>
           <Row className="align-items-center justify-content-center">
-            <Col sm="10" className="mb-13 mb-lg-0">
-              <div className="hero-btns d-flex flex-column flex-md-row justify-content-md-center">
-                  <Button className="btn btn-primary with-icon gr-hover-y mb-6 mb-md-0 me-md-7">
-                    Conheça a gente
-                    <i className="fas fa-arrow-right gr-text-11"></i>
-                  </Button>
+            <Col lg="4" md="6" sm="10" className="mb-13 mb-lg-0">
+              <div className="service-card">
+                <h3 className="card-title gr-text-7 heading-color mb-7">Digital Marketing</h3>
+                <div className="img-thumb mb-8">
+                  <img className="rounded-10 w-100" src={imgS1} alt="" />
                 </div>
+                <p className="excerpt gr-text-9 text-color-opacity mb-6">
+                  With lots of unique blocks, you can easily build a page
+                  without coding. Build your next landing page.
+                </p>
+                <Link
+                  to="/#"
+                  className="btn-link with-icon gr-text-9 fw-bold"
+                >
+                  Learn more{" "}
+                  <i className="icon icon-tail-right fw-bold"></i>
+                </Link>
+              </div>
+            </Col>
+            <Col lg="4" md="6" sm="10" className="mb-13 mb-lg-0">
+              <div className="service-card">
+                <h3 className="card-title gr-text-7 heading-color mb-7">Business Growth</h3>
+                <div className="img-thumb mb-8">
+                  <img className="rounded-10 w-100" src={imgS2} alt="" />
+                </div>
+                <p className="excerpt gr-text-9 text-color-opacity mb-6">
+                  With lots of unique blocks, you can easily build a page
+                  without coding. Build your next landing page.
+                </p>
+                <Link
+                  to="/#"
+                  className="btn-link with-icon gr-text-9 fw-bold"
+                >
+                  Learn more{" "}
+                  <i className="icon icon-tail-right fw-bold"></i>
+                </Link>
+              </div>
+            </Col>
+            <Col lg="4" md="6" sm="10" className="mb-13 mb-lg-0">
+              <div className="service-card">
+                <h3 className="card-title gr-text-7 heading-color mb-7">Content Marketing</h3>
+                <div className="img-thumb mb-8">
+                  <img className="rounded-10 w-100" src={imgS3} alt="" />
+                </div>
+                <p className="excerpt gr-text-9 text-color-opacity mb-6">
+                  With lots of unique blocks, you can easily build a page
+                  without coding. Build your next landing page.
+                </p>
+                <Link
+                  to="/#"
+                  className="btn-link with-icon gr-text-9 fw-bold"
+                >
+                  Learn more{" "}
+                  <i className="icon icon-tail-right fw-bold"></i>
+                </Link>
+              </div>
             </Col>
           </Row>
         </Container>

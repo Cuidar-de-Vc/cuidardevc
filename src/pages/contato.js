@@ -69,9 +69,9 @@ const Contact = () => {
                       <div className="widget-text">
                         <h3 className="gr-text-6 mb-5 heading-color">Visite-Nos</h3>
                         <p className="gr-text-7 mb-0 text-color-opacity">
-                          Endereço físico,
+                          Nossa sede estará aqui,
                           <br />
-                          Teresina - PI
+                          em breve.
                         </p>
                       </div>
                     </div>

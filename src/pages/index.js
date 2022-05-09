@@ -1,7 +1,7 @@
 import React from "react";
 import PageWrapper from "../components/PageWrapper";
 import Hero from "../sections/landing5/Hero2";
-import Services from "../sections/landing10/Services";
+import Services from "../sections/landing10/AboutIntro";
 import Services2 from "../sections/landing1/Services2";
 // import Testimonial1 from "../sections/landing1/Testimonial1";
 // import Content1 from "../sections/landing1/Content1";
