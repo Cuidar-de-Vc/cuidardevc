@@ -2,7 +2,7 @@ import React from "react";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
 
-const ElderlyCare = () => {
+const CareByHour = () => {
   return (
     <>
       <PageWrapper
@@ -21,7 +21,7 @@ const ElderlyCare = () => {
               <Col xl="8" lg="9">
                 <div className="px-md-15 text-center">
                   <h2 className="title gr-text-2 mb-8 mb-lg-10 heading-color">
-                    Cuidados com Idosos
+                    Cuidado por Hora
                   </h2>
                   <p className="gr-text-7 mb-0 mb-lg-13 text-color-opacity">Cuidado Domicilar</p>
                 </div>
@@ -36,9 +36,11 @@ const ElderlyCare = () => {
               <Col xl="8" lg="9">
                 <div className="single-block mb-12 mb-lg-15">
                   <p className="gr-text-9 text-color-opacity mb-9">
-                    Os pacientes classificados como cuidados básicos de saúde
-                    recebem um acompanhamento de saúde do cuidador em regime de
-                    plantão de 12 ate 24/dia.
+                    Conforme a necessidade de cuidado, terapia ou procedimento,
+                    nessa modalidade os pacientes recebem um atendimento
+                    especifico de cuidado, seja para realizar uma consulta de
+                    enfermagem ou multiprofissional, estabelecer uma organizaçao
+                    do ambiente terapeutico ou realizar algum procedimento tecnico.
                   </p>
                 </div>
               </Col>
@@ -49,4 +51,4 @@ const ElderlyCare = () => {
     </>
   );
 };
-export default ElderlyCare;
+export default CareByHour;

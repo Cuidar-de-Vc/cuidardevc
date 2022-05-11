@@ -7,6 +7,7 @@ import imgS0 from "../assets/image/l3/jpg/l3-service-img00.jpg";
 import imgS1 from "../assets/image/l3/jpg/l3-service-img11.jpg";
 import imgS2 from "../assets/image/l3/jpg/l3-service-img22.jpg";
 import imgS3 from "../assets/image/l3/jpg/l3-service-img33.jpg";
+import imgS4 from "../assets/image/l3/jpg/l3-service-img44.jpg";
 
 const ServicesPage = () => {
   return (
@@ -38,7 +39,7 @@ const ServicesPage = () => {
         </div>
         <div className="about-content pt-lg-23 pt-13 pb-13 pb-lg-25">
           <Container>
-            <Row className="align-items-center justify-content-center">
+            <Row className="align-items-center justify-content-right">
               <Col md="6" sm="10" className="mb-13">
                 <div className="service-card">
                   <h3 className="card-title gr-text-7 heading-color mb-7">Cuidados com Idosos</h3>
@@ -49,7 +50,7 @@ const ServicesPage = () => {
                     Os pacientes agora podem receber cuidados de enfermagem em casa diariamente com serviços de alta qualidade.
                   </p>
                   <Link
-                    to="/#"
+                    to="/cuidados-com-idosos"
                     className="btn-link with-icon gr-text-9 fw-bold"
                   >
                     Saiba mais{" "}
@@ -67,7 +68,7 @@ const ServicesPage = () => {
                     Os pacientes agora podem receber cuidados de enfermagem em casa diariamente com serviços de alta qualidade.
                   </p>
                   <Link
-                    to="/#"
+                    to="/consulta-de-enfermagem"
                     className="btn-link with-icon gr-text-9 fw-bold"
                   >
                     Saiba mais{" "}
@@ -85,7 +86,7 @@ const ServicesPage = () => {
                     Através de consulta com o médico, uma enfermeira irá definir um plano e conduzi-lo de acordo.
                   </p>
                   <Link
-                    to="/#"
+                    to="/cuidado-por-hora"
                     className="btn-link with-icon gr-text-9 fw-bold"
                   >
                     Saiba mais{" "}
@@ -103,7 +104,25 @@ const ServicesPage = () => {
                     Uma dona de casa ou pessoa que ajuda nas tarefas domésticas pode manter a casa com tarefas domésticas.
                   </p>
                   <Link
-                    to="/#"
+                    to="/enfermagem-domiciliar-intensiva"
+                    className="btn-link with-icon gr-text-9 fw-bold"
+                  >
+                    Saiba mais{" "}
+                    <i className="icon icon-tail-right fw-bold"></i>
+                  </Link>
+                </div>
+              </Col>
+              <Col md="6" sm="10" className="mb-13">
+                <div className="service-card">
+                  <h3 className="card-title gr-text-7 heading-color mb-7">Cuidado Especializado</h3>
+                  <div className="img-thumb mb-8">
+                    <img className="rounded-10 w-100" src={imgS4} alt="" />
+                  </div>
+                  <p className="excerpt gr-text-9 text-color-opacity mb-6">
+                    Uma dona de casa ou pessoa que ajuda nas tarefas domésticas pode manter a casa com tarefas domésticas.
+                  </p>
+                  <Link
+                    to="/cuidado-especializado"
                     className="btn-link with-icon gr-text-9 fw-bold"
                   >
                     Saiba mais{" "}
