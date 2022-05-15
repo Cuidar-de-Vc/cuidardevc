@@ -40,6 +40,16 @@ const ElderlyCare = () => {
                     recebem um acompanhamento de saúde do cuidador em regime de
                     plantão de 12 ate 24/dia.
                   </p>
+                  <p className="gr-text-9 text-color-opacity mb-9">
+                    Cuidados diários que são direcionados aos pacientes idosos
+                    portadores de alguma deficiência leve, moderada e grave
+                    (parcial ou total) que necessitem de auxilio profissional
+                    (Cuidador ou Auxiliar de Enfermagem) para atender nas
+                    atividades de autocuidado, como auxiliar na alimentação,
+                    no banho (leito ou de aspersão), higiene geral
+                    (oral e intima), troca de fraldas, mudança de decúbito
+                    (posição) no caso de pessoas acamadas.
+                  </p>
                 </div>
               </Col>
             </Row>

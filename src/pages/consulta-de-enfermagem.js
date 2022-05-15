@@ -41,6 +41,13 @@ const NursingConsultation = () => {
                     plano terapeutico de cuidado sistematizado que irá nortear
                     toda a assistencia a ser prestada.
                   </p>
+                  <p className="gr-text-9 text-color-opacity mb-9">
+                    A consulta de enfermagem  e privativa e prestada pelo
+                    enfermeiro, na qual são identificados problemas de saúde,
+                    prescritos cuidados e implementadas ações de enfermagem com
+                    o objetivo de alcançar a promoção, proteção, recuperação ou
+                    reabilitação do paciente.
+                  </p>
                 </div>
               </Col>
             </Row>

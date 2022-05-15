@@ -133,8 +133,6 @@ const ServicesPage = () => {
             </Row>
           </Container>
         </div>
-        
-        
       </PageWrapper>
     </>
   );
