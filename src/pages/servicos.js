@@ -47,7 +47,8 @@ const ServicesPage = () => {
                     <img className="rounded-10 w-100" src={imgS0} alt="" />
                   </div>
                   <p className="excerpt gr-text-9 text-color-opacity mb-6">
-                    Os pacientes agora podem receber cuidados de enfermagem em casa diariamente com serviços de alta qualidade.
+                    Os pacientes classificados como cuidados básicos de saúde
+                    recebem um acompanhamento de saúde do cuidador em regime...
                   </p>
                   <Link
                     to="/cuidados-com-idosos"
@@ -65,7 +66,8 @@ const ServicesPage = () => {
                     <img className="rounded-10 w-100" src={imgS1} alt="" />
                   </div>
                   <p className="excerpt gr-text-9 text-color-opacity mb-6">
-                    Os pacientes agora podem receber cuidados de enfermagem em casa diariamente com serviços de alta qualidade.
+                    Apos o diagnóstico médico e necessidade de tratamento em
+                    casa, e feito uma consulta com o enfermeiro...
                   </p>
                   <Link
                     to="/consulta-de-enfermagem"
@@ -83,7 +85,8 @@ const ServicesPage = () => {
                     <img className="rounded-10 w-100" src={imgS2} alt="" />
                   </div>
                   <p className="excerpt gr-text-9 text-color-opacity mb-6">
-                    Através de consulta com o médico, uma enfermeira irá definir um plano e conduzi-lo de acordo.
+                    Conforme a necessidade de cuidado, terapia ou procedimento,
+                    nessa modalidade os pacientes recebem um atendimento...
                   </p>
                   <Link
                     to="/cuidado-por-hora"
@@ -101,7 +104,8 @@ const ServicesPage = () => {
                     <img className="rounded-10 w-100" src={imgS3} alt="" />
                   </div>
                   <p className="excerpt gr-text-9 text-color-opacity mb-6">
-                    Uma dona de casa ou pessoa que ajuda nas tarefas domésticas pode manter a casa com tarefas domésticas.
+                    Os pacientes classificados com cuidados de média e alta
+                    complexidade, como acamados, traquiostomizados...
                   </p>
                   <Link
                     to="/enfermagem-domiciliar-intensiva"
@@ -119,7 +123,8 @@ const ServicesPage = () => {
                     <img className="rounded-10 w-100" src={imgS4} alt="" />
                   </div>
                   <p className="excerpt gr-text-9 text-color-opacity mb-6">
-                    Uma dona de casa ou pessoa que ajuda nas tarefas domésticas pode manter a casa com tarefas domésticas.
+                    Conforme a necessidade, os pacientes receberão cuidados de
+                    reabilitação de funções especificas comprometidas...
                   </p>
                   <Link
                     to="/cuidado-especializado"
