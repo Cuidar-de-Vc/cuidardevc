@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
 
@@ -50,6 +51,9 @@ const ElderlyCare = () => {
                     (oral e intima), troca de fraldas, mudança de decúbito
                     (posição) no caso de pessoas acamadas.
                   </p>
+                  <Link to="/contato" className="btn btn-primary mt-3 mt-lg-10">
+                    Entre em contato
+                  </Link>
                 </div>
               </Col>
             </Row>

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
 
@@ -29,7 +30,6 @@ const CareByHour = () => {
             </Row>
           </Container>
         </div>
-
         <div className="main-block pb-6 pb-lg-17 bg-default-6">
           <Container>
             <Row className="justify-content-center">
@@ -42,6 +42,9 @@ const CareByHour = () => {
                     enfermagem ou multiprofissional, estabelecer uma organizaçao
                     do ambiente terapeutico ou realizar algum procedimento tecnico.
                   </p>
+                  <Link to="/contato" className="btn btn-primary mt-3 mt-lg-10">
+                    Entre em contato
+                  </Link>
                 </div>
               </Col>
             </Row>

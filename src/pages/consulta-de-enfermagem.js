@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
 
@@ -48,6 +49,9 @@ const NursingConsultation = () => {
                     o objetivo de alcançar a promoção, proteção, recuperação ou
                     reabilitação do paciente.
                   </p>
+                  <Link to="/contato" className="btn btn-primary mt-3 mt-lg-10">
+                    Entre em contato
+                  </Link>
                 </div>
               </Col>
             </Row>
