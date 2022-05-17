@@ -3,6 +3,8 @@ import { Link } from "gatsby";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
 
+import imgBanner from "../assets/image/inner/sv01-banner.png";
+
 const ElderlyCare = () => {
   return (
     <>
@@ -25,6 +27,11 @@ const ElderlyCare = () => {
                     Cuidados com Idosos
                   </h2>
                   <p className="gr-text-7 mb-0 mb-lg-13 text-color-opacity">Cuidado Domicilar</p>
+                </div>
+              </Col>
+              <Col xs="12">
+                <div className="banner-fluid-image pt-lg-9">
+                  <img src={imgBanner} alt="" className="w-100" />
                 </div>
               </Col>
             </Row>
