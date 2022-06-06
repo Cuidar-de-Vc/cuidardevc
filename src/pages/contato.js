@@ -56,7 +56,7 @@ const Contact = () => {
                       <div className="widget-text">
                         <h3 className="gr-text-6 mb-5 heading-color">Envie um email</h3>
                         <p className="gr-text-7 mb-0 text-color-opacity">
-                          cuidardevchomecare@gmail.com
+                          cuidardevchomecare20@hotmail.com
                         </p>
                       </div>
                     </div>

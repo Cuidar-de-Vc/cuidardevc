@@ -29,7 +29,6 @@ const TermsConditions = () => {
             </Row>
           </Container>
         </div>
-
         <div className="main-block pb-21">
           <Container>
             <Row className="justify-content-center">
