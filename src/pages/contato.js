@@ -34,7 +34,7 @@ const Contact = () => {
             <Row className="justify-content-center">
               <Col xs="12" className="mb-9">
                 <Row>
-                  <Col md="5" lg="4" className="mb-13">
+                  <Col md="5" lg="6" className="mb-13">
                     <div className="single-contact-widget d-flex">
                       <div className="widget-icon circle-sm-2 bg-white gr-text-6 text-primary me-7">
                         <i className="icon icon-phone-2"></i>
@@ -48,7 +48,7 @@ const Contact = () => {
                       </div>
                     </div>
                   </Col>
-                  <Col md="5" lg="4" className="mb-13">
+                  <Col md="5" lg="6" className="mb-13">
                     <div className="single-contact-widget d-flex">
                       <div className="widget-icon circle-sm-2 bg-white gr-text-6 text-primary me-7">
                         <i className="icon icon-email-83"></i>

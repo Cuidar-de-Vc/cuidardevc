@@ -25,23 +25,23 @@ const Footer = () => {
               <ul className="footer-links gr-text-11 py-lg-7 list-unstyled mb-0 d-xs-flex align-items-center justify-content-around justify-content-md-end flex-wrap">
                 <li className="ms-md-12 text-center">
                   <Link
-                    to="/#"
+                    to="/sobre"
                     className="gr-text-color gr-hover-text-blue fw-bold "
                   >
-                    Política de Privacidade
+                    Sobre Nós
                   </Link>
                 </li>
                 <li className="ms-md-12 text-center">
                   <Link
-                    to="/#"
+                    to="/servicos"
                     className="gr-text-color gr-hover-text-blue fw-bold "
                   >
-                    Termos &amp; Condições
+                    Serviços
                   </Link>
                 </li>
                 <li className="ms-md-12 text-center">
                   <Link
-                    to="/#"
+                    to="/contato"
                     className="gr-text-color gr-hover-text-blue fw-bold "
                   >
                     Contato
