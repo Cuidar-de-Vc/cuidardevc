@@ -75,6 +75,42 @@ const SpecializedCare = () => {
                     com lesão neurológica podem ter dificuldades na sua
                     integração social e profissional.
                   </p>
+                </div>
+                <div className="single-block mb-12 mb-lg-15">
+                  <h3 className="gr-text-6 heading-color fw-bold mb-9">
+                    Nutricionista
+                  </h3>
+                  <p className="gr-text-9 text-color-opacity mb-9">
+                    É o atendimento nutricional-dietético direcionado para
+                    pessoas em terapia nutricional domiciliar e hospitalar.
+                    Possui sua definição embasada na nutrição clínica ao paciente
+                    em domicílio com minimização de custos assistenciais que
+                    objetiva recuperar ou manter o maior nível de saúde
+                    complementar, funcionalidade e comodidade.
+                  </p>
+                  <p className="gr-text-9 text-color-opacity mb-0">Os tipos de assistência nutricional podem incluir uma dieta
+                    administrada por via oral, enteral e/ou parenteral.
+                    A indicação da terapia nutricional dependerá da condição
+                    clínica para melhor absorção do paciente. A terapia enteral
+                    domiciliar é semelhante a indicação que é dada na hospitalar,
+                    mais a redução dos riscos de infecção são muito menores na
+                    assistência em domicílio. Os casos mais indicados para
+                    terapia enteral são distúrbios de deglutição associada com
+                    fraturas, doenças neurológicas, câncer, gastroparesia e
+                    síndrome de má absorção.
+                  </p>
+                </div>
+                <div className="single-block mb-12 mb-lg-15">
+                  <h3 className="gr-text-6 heading-color fw-bold mb-9">
+                    Psicologia
+                  </h3>
+                  <p className="gr-text-9 text-color-opacity mb-0">
+                    O Profissional de psicologia possui a sua postura diferenciada
+                    de escuta, que, dentro da equipe, pode ajudar na ampliação
+                    acerca da percepção de um problema específico suscitado pela
+                    família; fazer o papel de intermediação entre a equipe e a família;
+                    e incentivar a reflexão técnica intermembros da equipe.
+                  </p>
                   <Link to="/contato" className="btn btn-primary mt-3 mt-lg-10">
                     Entre em contato
                   </Link>

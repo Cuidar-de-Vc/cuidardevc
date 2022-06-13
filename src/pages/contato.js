@@ -61,21 +61,6 @@ const Contact = () => {
                       </div>
                     </div>
                   </Col>
-                  <Col md="5" lg="4" className="mb-13">
-                    <div className="single-contact-widget d-flex">
-                      <div className="widget-icon circle-sm-2 bg-white gr-text-6 text-primary me-7">
-                        <i className="icon icon-pin-3-2"></i>
-                      </div>
-                      <div className="widget-text">
-                        <h3 className="gr-text-6 mb-5 heading-color">Visite-Nos</h3>
-                        <p className="gr-text-7 mb-0 text-color-opacity">
-                          Nossa sede estará aqui,
-                          <br />
-                          em breve.
-                        </p>
-                      </div>
-                    </div>
-                  </Col>
                 </Row>
               </Col>
             </Row>

@@ -2,7 +2,6 @@ import React from "react";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
 
-import imgBanner from "../assets/image/inner/about-banner.png";
 import imgT1 from "../assets/image/inner/team-image-11.png";
 import imgT4 from "../assets/image/inner/team-image-12.png";
 
@@ -38,7 +37,7 @@ const AboutUsPage = () => {
             </Row>
           </Container>
         </div>
-        <div className="about-content pt-lg-28 pt-13 pb-13 pb-lg-25">
+        <div className="about-content justify-content-center pt-lg-28 pt-13 pb-13 pb-lg-25">
           <Container>
             <Row>
               <Col lg="6" className="mb-7 mb-lg-0">
@@ -166,7 +165,7 @@ const AboutUsPage = () => {
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 heading-color mb-2">Bruna Vasconcelos</h3>
                     <p className="gr-text-9 text-color-opacity mb-0 line-height-1">
-                      Fisioterapeuta
+                      Fisioterapeuta em Ortopedia e Traumatologia e Dermato-Funcional
                     </p>
                   </div>
                 </div>
