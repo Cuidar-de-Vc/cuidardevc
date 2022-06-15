@@ -105,9 +105,7 @@ const AboutUsPage = () => {
                   <p className="gr-text-8 mb-13 text-color-opacity">
                     Ser uma empresa referência de assistência em saúde domiciliar
                     trazendo como ênfase a qualidade de vida e bem estar dos
-                    nossos clientes. Valores: Cuidado holístico, inovação,
-                    integridade, responsabilidade social, amor pelo próximo,
-                    colaboração, qualidade dos servios prestados.
+                    nossos clientes.
                   </p>
                 </div>
               </Col>
