@@ -33,7 +33,7 @@ const Services = () => (
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
-                    Cuidado Domicilar
+                    Cuidado Domiciliar
                   </span>
                   <h3 className="case-title heading-color gr-text-6 mb-0">
                     Cuidados com Idosos
@@ -46,7 +46,7 @@ const Services = () => (
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
-                    Cuidado Domicilar
+                    Cuidado Domiciliar
                   </span>
                   <h3 className="case-title heading-color gr-text-6 mb-0">
                     Cuidado por Hora
@@ -59,7 +59,7 @@ const Services = () => (
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
-                    Cuidado Domicilar
+                    Cuidado Domiciliar
                   </span>
                   <h3 className="case-title heading-color gr-text-6 mb-0">
                     Consulta de Enfermagem
@@ -72,10 +72,10 @@ const Services = () => (
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
-                    Cuidado Domicilar
+                    Cuidado Domiciliar
                   </span>
                   <h3 className="case-title heading-color gr-text-6 mb-0">
-                    Enfermagem Domiciliar Intensiva
+                    Acompanhamento de Enfermagem de Alta Complexidade
                   </h3>
                 </div>
               </div>

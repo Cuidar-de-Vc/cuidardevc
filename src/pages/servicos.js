@@ -29,7 +29,7 @@ const ServicesPage = () => {
                 <div className="px-md-12 text-center mb-0">
                   <h2 className="title gr-text-2 mb-9 mb-lg-12 heading-color">Serviços Que Prestamos</h2>
                   <p className="gr-text-8 text-color-opacity mb-0 text-color-opacity">
-                    Oferecemos a nossos clientes Cuidado Domicilar de alta
+                    Oferecemos aos nossos clientes um amplo Cuidado Domiciliar de alta
                     qualidade com os melhores profissionais do mercado.
                   </p>
                 </div>
@@ -66,7 +66,7 @@ const ServicesPage = () => {
                     <img className="rounded-10 w-100" src={imgS1} alt="" />
                   </div>
                   <p className="excerpt gr-text-9 text-color-opacity mb-6">
-                    Apos o diagnóstico médico e necessidade de tratamento em
+                    Apos o diagnóstico médico e a necessidade de tratamento em
                     casa, e feito uma consulta com o enfermeiro...
                   </p>
                   <Link
@@ -99,7 +99,7 @@ const ServicesPage = () => {
               </Col>
               <Col md="6" sm="10" className="mb-13">
                 <div className="service-card">
-                  <h3 className="card-title gr-text-7 heading-color mb-7">Enfermagem Domiciliar Intensiva</h3>
+                  <h3 className="card-title gr-text-7 heading-color mb-7">Acompanhamento de Enfermagem de Alta Complexidade</h3>
                   <div className="img-thumb mb-8">
                     <img className="rounded-10 w-100" src={imgS3} alt="" />
                   </div>

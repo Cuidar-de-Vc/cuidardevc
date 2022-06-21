@@ -21,7 +21,7 @@ const Hero = () => {
                   Home Care
                 </p>
                 <h1 className="gr-text-2 mb-8 text-white">
-                  Oferecemos serviço de saúde domiciliar para sua família.
+                  Oferecemos serviços de saúde domiciliar para sua família.
                 </h1>
               </div>
             </Col>

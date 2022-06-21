@@ -27,7 +27,7 @@ const SpecializedCare = () => {
                   <h2 className="title gr-text-2 mb-8 mb-lg-10 heading-color">
                     Atendimento Especializado
                   </h2>
-                  <p className="gr-text-7 mb-0 mb-lg-13 text-color-opacity">Cuidado Domicilar</p>
+                  <p className="gr-text-7 mb-0 mb-lg-13 text-color-opacity">Cuidado Domiciliar</p>
                 </div>
               </Col>
               <Col xs="12">
@@ -53,7 +53,7 @@ const SpecializedCare = () => {
                 </div>
                 <div className="single-block mb-12 mb-lg-15">
                   <h3 className="gr-text-6 heading-color fw-bold mb-9">
-                    Fisioterapia
+                    Fisioterapeuta
                   </h3>
                   <p className="gr-text-9 text-color-opacity mb-0">
                     A fisioterapia no atendimento domiciliar é caracterizada

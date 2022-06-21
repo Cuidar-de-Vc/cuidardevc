@@ -26,7 +26,7 @@ const IntensiveHomeNursing = () => {
                   <h2 className="title gr-text-2 mb-8 mb-lg-10 heading-color">
                     Assistência Acompanhada Intensiva
                   </h2>
-                  <p className="gr-text-7 mb-0 mb-lg-13 text-color-opacity">Cuidado Domicilar</p>
+                  <p className="gr-text-7 mb-0 mb-lg-13 text-color-opacity">Cuidado Domiciliar</p>
                 </div>
               </Col>
               <Col xs="12">

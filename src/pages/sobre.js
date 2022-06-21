@@ -25,7 +25,7 @@ const AboutUsPage = () => {
                 <div className="px-md-12 text-center mb-11 mb-lg-14">
                   <h2 className="title gr-text-2 mb-9 mb-lg-12 heading-color">Nossa História</h2>
                   <p className="gr-text-8 text-color-opacity mb-0 text-color-opacity">
-                    Aqui você vai conhecer mais sobre a gente, entender o que nos motiva.
+                    Aqui você vai conhecer mais sobre a gente e entender o que nos motiva.
                   </p>
                 </div>
               </Col>
@@ -81,8 +81,8 @@ const AboutUsPage = () => {
                     Nossa Missão
                   </h2>
                   <p className="gr-text-8 mb-13 text-color-opacity">
-                    Oferecer cuidados de saúde para crianças e idosos no conforto
-                    do seu lar e/ou ambiente hospitalar preservando os princípios
+                    Oferecer cuidados de saúde para crianças, idosos e/ou portadores de doenças crônicas no conforto
+                    do seu lar ou ambiente hospitalar preservando os princípios
                     da bioética, respeitando todos os aspectos biopsicosociais
                     envolvidos da pessoa e família durante todo o processo de
                     saúde/doença, nos comprometendo com a saúde e bem-estar dos
@@ -122,7 +122,7 @@ const AboutUsPage = () => {
                   </h2>
                   <p className="gr-text-8 mb-13 text-color-opacity">
                     Cuidado holístico, inovação, integridade, responsabilidade
-                    social, amor pelo próximo, colaboração, qualidade dos servios prestados.
+                    social, amor pelo próximo, colaboração, qualidade dos serviços prestados.
                   </p>
                 </div>
               </Col>
@@ -150,8 +150,10 @@ const AboutUsPage = () => {
                     <img src={imgT4} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
-                    <h3 className="gr-text-7 heading-color mb-2">Márcio Sousa</h3>
-                    <p className="gr-text-9 text-color-opacity mb-0 line-height-1">Enfermeiro Oncologista</p>
+                    <h3 className="gr-text-7 heading-color mb-2">Márcio Fernando</h3>
+                    <p className="gr-text-9 text-color-opacity mb-0 line-height-1">Enfermeiro - COREN-PI N° 567.797.
+                      Especialista em Oncologia e Urgência e Emergência (Coordenador Geral e Supervisor Técnico)
+                    </p>
                   </div>
                 </div>
               </Col>
@@ -163,7 +165,8 @@ const AboutUsPage = () => {
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 heading-color mb-2">Bruna Vasconcelos</h3>
                     <p className="gr-text-9 text-color-opacity mb-0 line-height-1">
-                      Fisioterapeuta em Ortopedia e Traumatologia e Dermato-Funcional
+                      Fisioterapeuta - CREFITO N° Especialista em Traumato/Ortopedia e Dermato/Funcional
+                      (Coordenadora Adjunta e Supervisora Interdisciplinar)
                     </p>
                   </div>
                 </div>
