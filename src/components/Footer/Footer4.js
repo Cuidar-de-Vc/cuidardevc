@@ -10,7 +10,7 @@ const Footer = () => {
 
   return (
     <>
-      <div className="footer-section bg-default-4 py-9 ">
+      <div className="footer-section bg-blackish-blue dark-mode-texts py-9 ">
         <Container>
           <Row className="justify-content-center align-items-center">
             <Col lg="3" md="4">
