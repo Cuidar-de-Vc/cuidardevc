@@ -165,7 +165,7 @@ const AboutUsPage = () => {
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 heading-color mb-2">Bruna Vasconcelos</h3>
                     <p className="gr-text-9 text-color-opacity mb-0 line-height-1">
-                      Fisioterapeuta - CREFITO N° Especialista em Traumato/Ortopedia e Dermato/Funcional
+                      Fisioterapeuta - CREFITO N° 28793 Especialista em Traumato/Ortopedia e Dermato/Funcional
                       (Coordenadora Adjunta e Supervisora Interdisciplinar)
                     </p>
                   </div>
