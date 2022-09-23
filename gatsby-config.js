@@ -1,7 +1,7 @@
 const path = require(`path`)
 module.exports = {
   siteMetadata: {
-    title: `Fastland Gatsby`,
+    title: `Cuidar de Você`,
   },
   // flags: {
   //   PRESERVE_FILE_DOWNLOAD_CACHE: true,
