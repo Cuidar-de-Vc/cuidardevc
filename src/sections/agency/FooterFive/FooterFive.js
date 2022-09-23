@@ -54,7 +54,7 @@ return(
                 </a>
             </Footer.SocialShareItem>
         </Footer.SocialShare>
-        <Footer.CopyrightText>© 2021 Fastland By FinestDevs. All Rights Reserved</Footer.CopyrightText>
+        <Footer.CopyrightText>© 2022 Cuidar de Você por Lauriel Mesquita. All Rights Reserved</Footer.CopyrightText>
         </Footer.Copyright>
     </Container>
     </Footer>

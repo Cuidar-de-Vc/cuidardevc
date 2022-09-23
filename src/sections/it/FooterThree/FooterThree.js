@@ -98,7 +98,7 @@ return(
         </Row>
         </Footer.Box>
         <Footer.Copyright>
-        <Footer.CopyrightText>© 2021 Fastland By FinestDevs. All Rights Reserved</Footer.CopyrightText>
+        <Footer.CopyrightText>© 2022 Cuidar de Você por Lauriel Mesquita. All Rights Reserved</Footer.CopyrightText>
         <Footer.SocialShare>
             <Footer.SocialShareItem>
                 <a href="#">
