@@ -592,7 +592,6 @@ const SiteHeader = styled.div.attrs({
     }
   }
 
-
 &.site-header--with-border{
   .navbar-brand{
     @media (min-width:992px){
