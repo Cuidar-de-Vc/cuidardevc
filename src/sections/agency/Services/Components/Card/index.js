@@ -9,7 +9,7 @@ return(
   </Card.Icon>
   <Card.Title as="h4">{title}</Card.Title>
   <Card.Text >{text}</Card.Text>
-  <Card.Button as={Link} to={to?to:"/"}>Learn More <i className="fa fa-angle-right" /></Card.Button>
+  <Card.Button as={Link} to={to?to:"/"}>Saiba Mais <i className="fa fa-angle-right" /></Card.Button>
 </Card>
 )
 }

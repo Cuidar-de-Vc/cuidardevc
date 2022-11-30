@@ -19,13 +19,12 @@ return(
                 </Footer.Box>
             </Footer.Logo>
             
-            <Footer.Text as="p">We’ll help you achieve Your marketing & business goals</Footer.Text>
+            <Footer.Text as="p">Atendimento domiciliar de qualidade e serviço de enfermagem particular</Footer.Text>
             <Footer.Menu>
-                <Footer.MenuItems><a href="#">Home</a></Footer.MenuItems>
-                <Footer.MenuItems> <a href="#">About Us</a> </Footer.MenuItems>
-                <Footer.MenuItems><a href="#">Services</a></Footer.MenuItems>
-                <Footer.MenuItems><a href="#">Blog</a></Footer.MenuItems>
-                <Footer.MenuItems><a href="#">Contact</a>
+                <Footer.MenuItems><a href="#">Homepage</a></Footer.MenuItems>
+                <Footer.MenuItems> <a href="#">Sobre Nós</a> </Footer.MenuItems>
+                <Footer.MenuItems><a href="#">Serviços</a></Footer.MenuItems>
+                <Footer.MenuItems><a href="#">Contato</a>
                 </Footer.MenuItems>
             </Footer.Menu>
             </Col>
@@ -54,7 +53,7 @@ return(
                 </a>
             </Footer.SocialShareItem>
         </Footer.SocialShare>
-        <Footer.CopyrightText>© 2022 Cuidar de Você por Lauriel Mesquita. All Rights Reserved</Footer.CopyrightText>
+        <Footer.CopyrightText>© 2022 Cuidar de Você por Lauriel Mesquita. Todos os Direitos Reservados</Footer.CopyrightText>
         </Footer.Copyright>
     </Container>
     </Footer>

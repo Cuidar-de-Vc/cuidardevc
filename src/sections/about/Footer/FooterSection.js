@@ -18,7 +18,7 @@ return(
                     </Link>
                 </Footer.Box>
                 <Footer.Text mb="36px">
-                We’re the digital agency to create<br className="d-none d-xl-block" /> your digital presence for better<br className="d-none d-xl-block" /> conversion and sales.</Footer.Text>
+                    We’re the digital agency to create<br className="d-none d-xl-block" /> your digital presence for better<br className="d-none d-xl-block" /> conversion and sales.</Footer.Text>
                     <Footer.SocialShare>
                         <Footer.SocialShareItem>
                             <a href="#">
@@ -114,7 +114,7 @@ return(
         </Row>
         </Footer.Box>
         <Footer.Copyright>
-        <Footer.CopyrightText>© 2022 Cuidar de Você por Lauriel Mesquita. All Rights Reserved</Footer.CopyrightText>
+        <Footer.CopyrightText>© 2022 Cuidar de Você por Lauriel Mesquita. Todos os Direitos Reservados</Footer.CopyrightText>
         </Footer.Copyright>
     </Container>
     </Footer>

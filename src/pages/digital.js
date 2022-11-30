@@ -11,7 +11,6 @@ import PromoSection from '~sections/digital/Promo'
 import HeaderButton from '~sections/digital/Header'
 import FooterSix from '~sections/digital/FooterSix'
 
-
 const header = {
   headerClasses: "site-header site-header--menu-end dark-header site-header--sticky",
   containerFluid:false,

@@ -18,21 +18,22 @@ return(
         <Promo.Content>
           <Promo.Box>
           <SectionTitle 
-              subTitle="Join our community" 
-              title="Get latest app updates<br className='d-none d-lg-block'/> right at your inbox"
+              subTitle="Conte com a gente" 
+              title="Nós cuidamos dos seus problemas com cuidado"
+               
               subTitleProps={{mb:"30px", className:"black"}}
               titleProps={{mb:"30px"}}
               />
           </Promo.Box>
           {/* Newsletter */}
-          <Promo.Newsletter>
+          {/* <Promo.Newsletter>
             <Form>
               <Form.Group>
                 <Form.Control type="email" placeholder="Enter your email" />
                 <Button type="submit">Subscribe</Button>
               </Form.Group>
             </Form>
-          </Promo.Newsletter>
+          </Promo.Newsletter> */}
           {/*/ .Newsletter */}
         </Promo.Content>
       </Col>

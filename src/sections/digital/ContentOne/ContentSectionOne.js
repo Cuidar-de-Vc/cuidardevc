@@ -12,21 +12,23 @@ return(
         {/* about-us Content */}
         <Col xs="12" className="col-lg-7 col-md-6 col-xs-10">
           <Content.Box>
-            <Content.Subtitle as="h6" mb="40px" fontColor="#fd346e">About us</Content.Subtitle>
-            <Content.Title as="h2" mb="30px" mbXL="50px">We are here to make your website looks more elegant</Content.Title>
+            <Content.Subtitle as="h6" mb="40px" fontColor="#fd346e">Sobre Nós</Content.Subtitle>
+            <Content.Title as="h2" mb="30px" mbXL="50px">Nosso trabalho descreve porque somos os melhores</Content.Title>
             <Content.ImageOne mb="40px">
-              <Img src="../../../assets/image/home-digital-agency/content-l7-1.png" alt="About" placeholder="blurred" layout="fullWidth"/>
+              <Img src="../../../assets/image/home-digital-agency/content-l7-1-1.png" alt="About" placeholder="blurred" layout="fullWidth"/>
             </Content.ImageOne>
           </Content.Box>
         </Col>
         {/*/ .about-us Content */}
         <Col xs="12" className="col-lg-4 offset-xl-1 col-md-6 col-xs-10">
-            <Content.Subtitle as="h6" mb="30px" fontColor="#fd346e">Our customer</Content.Subtitle>
-            <Content.Text mb="40px" mbXL="60px">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</Content.Text>
+            <Content.Subtitle as="h6" mb="30px" fontColor="#fd346e">Nosso Objetivo</Content.Subtitle>
+            <Content.Text mb="40px" mbXL="60px">A idéia inicial foi investir em marketing digital que hoje e um meio de comunicação indispensável para divulgar a venda e compra de serviços.</Content.Text>
             <Content.ImageTwo mb="40px">
-              <Img src="../../../assets/image/home-digital-agency/content-l7-2.png" alt="About" placeholder="blurred" layout="fullWidth"/>
+              <Img src="../../../assets/image/home-digital-agency/content-l7-2-2.png" alt="About" placeholder="blurred" layout="fullWidth"/>
             </Content.ImageTwo>
-            <Content.Text mb="30px" ptXL="30px">Everything we do is thoughtfully tied with creativity. We design and develop modern user friendly websites which incorporate your logo and branding according to your choice.</Content.Text>
+            <Content.Text mb="30px" ptXL="30px">Contudo, toda criação e planejamento inicial de uma empresa leva tempo para
+            ser desenvolvida e lançada ao mercado, e não foi diferente com a gente, hoje prestamos serviços de saúde domiciliar
+            com o intuito de levar um cuidado integral de saúde para a sociedade.</Content.Text>
         </Col>
       </Row>
     </Content.InnerBlock>

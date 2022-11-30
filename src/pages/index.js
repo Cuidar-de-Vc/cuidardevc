@@ -1,42 +1,38 @@
 import React from "react"
 import { PageWrapper } from "~components/Core"
-import HeroSection from "~sections/marketing/Hero"
-import ServiceSection from "~sections/marketing/Service"
-import FeatureSection from "~sections/marketing/Features"
-import ContentSectionOne from "~sections/marketing/ContentOne"
-import ContentSectionTwo from "~sections/marketing/ContentTwo"
-import TestimonialSection from "~sections/marketing/Testimonial"
-import CounterSection from "~sections/marketing/Counter"
-import CtaSection from "~sections/marketing/Cta"
-import FooterOne from "~sections/marketing/FooterOne"
-import HeaderButton from "~sections/marketing/Header"
+import HeroSection from '~sections/services/Hero'
+import CtaSection from '~sections/app/Cta'
+import ServicesSection from '~sections/agency/Services'
+import ContentSectionOne from '~sections/digital/ContentOne'
+import ContentSectionTwo from '~sections/digital/ContentTwo'
+import PromoSection from '~sections/app/Promo'
+import HeaderButton from '~sections/services/Header'
+import FooterFive from '~sections/agency/FooterFive'
+
 const header = {
-  headerClasses: "site-header site-header--menu-start light-header site-header--sticky",
-  containerFluid:true,
-  // customLogo: Images.HeaderLogo,
+  headerClasses: "site-header site-header--menu-end site-header--services dark-header site-header--sticky site-header--service",
+  containerFluid:false,
+  darkLogo:false,
   buttonBlock: (
     <HeaderButton
       className="ms-auto d-none d-xs-inline-flex"
-      btnOneText="Login"
-      btnTwoText="Get started"
+      btnText="CONTATO"
       mr="15px"
       mrLG="0"
     />
   ),
 }
 
-export default function Marketing() {
+export default function Services() {
   return (
     <PageWrapper headerConfig={header}>
-      <HeroSection/>
-      <ServiceSection/>
-      <FeatureSection/>
-      <ContentSectionOne/>
-      <ContentSectionTwo/>
-      <TestimonialSection />
-      <CounterSection/>
-      <CtaSection />
-      <FooterOne/>
-    </PageWrapper>
+        <HeroSection/>
+        <CtaSection/>
+        <ServicesSection/>
+        <ContentSectionOne/>
+        <ContentSectionTwo/>
+        <PromoSection/>
+        <FooterFive/> 
+        </PageWrapper>
   )
 }
