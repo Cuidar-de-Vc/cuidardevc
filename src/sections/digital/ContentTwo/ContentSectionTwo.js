@@ -11,7 +11,7 @@ return(
       <Col xs="12" className="col-xl-6 col-lg-7 col-md-8 col-xs-9 order-2 order-lg-1">
         {/* Section Title */}
         <Content.Box>
-          <Content.Subtitle fontColor="#fd346e" as="h4">Nossa Missão</Content.Subtitle>
+          <Content.Subtitle fontColor="#099a97" as="h4">Nossa Missão</Content.Subtitle>
           <Content.Title as="h2">Oferecer cuidados de saúde para crianças</Content.Title>
           <Content.Text>idosos e/ou portadores de doenças crônicas no<br className="d-none d-md-block" />
           conforto do seu lar ou ambiente hospitalar<br className="d-none d-md-block" />

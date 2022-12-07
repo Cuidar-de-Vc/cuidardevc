@@ -29,7 +29,6 @@
 }
 
 
-
 @each $color, $value in $btn-colors {
     .btn-outline-#{$color} {
         @include button-outline-variant($value);

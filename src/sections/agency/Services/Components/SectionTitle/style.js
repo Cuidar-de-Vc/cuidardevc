@@ -13,7 +13,7 @@ color:inherit;
 
 `
 SectionTitle.Subtitle = styled(Heading)`
-color: #ff5722;
+color: #099a97;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: normal;
@@ -30,7 +30,7 @@ color: #ff5722;
         bottom: 9px;
         width: 41px;
         height: 1px;
-        background-color: #ff5722;
+        background-color: #099a97;
     }
 
 `

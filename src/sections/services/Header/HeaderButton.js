@@ -20,8 +20,8 @@ export const HeaderButtonWrapper = styled(Box)`
         letter-spacing: -0.4px;
         color:#fff;
         margin-left:10px;
-        background-color: #15cda8;
-        border-color: #15cda8;
+        background-color: #099a97;
+        border-color: #099a97;
         box-shadow:-12px 20px 50px rgb(21 205 168 / 30%);
         border-radius:500px;
         &:hover{

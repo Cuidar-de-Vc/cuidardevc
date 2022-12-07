@@ -12,7 +12,7 @@ return(
         {/* about-us Content */}
         <Col xs="12" className="col-lg-7 col-md-6 col-xs-10">
           <Content.Box>
-            <Content.Subtitle as="h6" mb="40px" fontColor="#fd346e">Sobre Nós</Content.Subtitle>
+            <Content.Subtitle as="h6" mb="40px" fontColor="#099a97">Sobre Nós</Content.Subtitle>
             <Content.Title as="h2" mb="30px" mbXL="50px">Nosso trabalho descreve porque somos os melhores</Content.Title>
             <Content.ImageOne mb="40px">
               <Img src="../../../assets/image/home-digital-agency/content-l7-1-1.png" alt="About" placeholder="blurred" layout="fullWidth"/>
@@ -21,7 +21,7 @@ return(
         </Col>
         {/*/ .about-us Content */}
         <Col xs="12" className="col-lg-4 offset-xl-1 col-md-6 col-xs-10">
-            <Content.Subtitle as="h6" mb="30px" fontColor="#fd346e">Nosso Objetivo</Content.Subtitle>
+            <Content.Subtitle as="h6" mb="30px" fontColor="#099a97">Nosso Objetivo</Content.Subtitle>
             <Content.Text mb="40px" mbXL="60px">A idéia inicial foi investir em marketing digital que hoje e um meio de comunicação indispensável para divulgar a venda e compra de serviços.</Content.Text>
             <Content.ImageTwo mb="40px">
               <Img src="../../../assets/image/home-digital-agency/content-l7-2-2.png" alt="About" placeholder="blurred" layout="fullWidth"/>

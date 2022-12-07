@@ -82,6 +82,10 @@ Card.Button = styled(Box)`
         i {
             margin-left: 10px;
         }
+
+        &:hover {
+            color: #099a97;
+        }
 `
 
 export default Card;

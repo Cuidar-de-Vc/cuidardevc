@@ -21,7 +21,7 @@ return(
       </Col>
       {ServiceData.map(({ to, title, icon, text, id, iconColor }) => {
               return (
-                <Col
+                <Col 
                   xs="12"
                   className="col-xl-4 col-lg-6 col-md-6 col-sm-9 col-xs-10"
                   key={id}

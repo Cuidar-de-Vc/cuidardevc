@@ -66,7 +66,7 @@ Footer.SocialShareItem = styled(Box).attrs({className:"list-items", as:"li"})
         transition: 0.4s;
         &:hover{
             box-shadow: 0 10px 20px rgba(253 52 110, 0.25);
-            background-color: #ff5722;
+            background-color: #099a97;
             color: #fff;
         }
     }
@@ -118,7 +118,7 @@ Footer.MenuItems = styled(Box).attrs({className:"footer-menu__li", as:"li"})
         color: #262729;
         transition: 0.4s;
         &:hover{
-            color: #ff5722;
+            color: #099a97;
         }
     }
 `

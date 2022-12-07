@@ -8,8 +8,8 @@ const HeaderButton = styled(Button)`
     font-weight: 500;
     letter-spacing: normal;
     color:#fff;
-    background-color: #0abfbc;
-    border-color: #0abfbc;
+    background-color: #099a97;
+    border-color: #099a97;
     box-shadow:-12px 12px 50px rgb(10 191 188 / 30%);
     border-radius:500px;
     &:hover{
